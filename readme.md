@@ -6,3 +6,6 @@
 
 #### Dejaré por aquí una segunda imagen para que se aprecie mejor. 
 ![❌ERROR❌](./2.PNG "Texto a mostrar cuando nos situamos sobre la imagen. En este caso sería Baile de la película Pulp Fiction")
+#### La portadilla ya de por sí, se ve bastante interesante por el llamativo título y su profundo poema. Quiero transmitir con cada palabra lo siginificativo que es el título y el porqué el emblematico nombre. La historia conlleva detrás; mucho romance, pasión, venganza, desilusión y bastante superación personal por parte de la protagonista.
+#### Añadiré otra imagen para mostrar como empieza el capítulo 1. 
+![❌ERROR❌](./3.PNG "Texto a mostrar cuando nos situamos sobre la imagen. En este caso sería Baile de la película Pulp Fiction")
